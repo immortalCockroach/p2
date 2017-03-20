@@ -11,8 +11,8 @@ import (
 	"regexp"
 	"time"
 
-	"github.com/cmu440/tribbler/rpc/librpc"
-	"github.com/cmu440/tribbler/rpc/storagerpc"
+	"p2/src/github.com/cmu440/tribbler/rpc/storagerpc"
+	"p2/src/github.com/cmu440/tribbler/rpc/librpc"
 )
 
 type storageTester struct {

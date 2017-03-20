@@ -13,9 +13,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/cmu440/tribbler/libstore"
-	"github.com/cmu440/tribbler/rpc/storagerpc"
-	"github.com/cmu440/tribbler/tests/proxycounter"
+	"p2/src/github.com/cmu440/tribbler/libstore"
+	"p2/src/github.com/cmu440/tribbler/rpc/storagerpc"
+	"p2/src/github.com/cmu440/tribbler/tests/proxycounter"
 )
 
 type testFunc struct {

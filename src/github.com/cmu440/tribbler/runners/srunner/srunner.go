@@ -10,7 +10,7 @@ import (
 	"math/big"
 	"math/rand"
 
-	"github.com/cmu440/tribbler/storageserver"
+	"p2/src/github.com/cmu440/tribbler/storageserver"
 )
 
 const defaultMasterPort = 9009

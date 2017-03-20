@@ -3,7 +3,7 @@ package libstore
 import (
 	"errors"
 
-	"github.com/cmu440/tribbler/rpc/storagerpc"
+	"p2/src/github.com/cmu440/tribbler/rpc/storagerpc"
 )
 
 type libstore struct {

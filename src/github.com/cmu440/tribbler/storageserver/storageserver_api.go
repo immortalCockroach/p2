@@ -2,7 +2,7 @@
 
 package storageserver
 
-import "github.com/cmu440/tribbler/rpc/storagerpc"
+import "p2/src/github.com/cmu440/tribbler/rpc/storagerpc"
 
 // StorageServer defines the set of methods that can be invoked remotely via RPCs.
 type StorageServer interface {

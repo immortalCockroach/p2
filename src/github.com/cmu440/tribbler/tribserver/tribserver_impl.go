@@ -3,7 +3,7 @@ package tribserver
 import (
 	"errors"
 
-	"github.com/cmu440/tribbler/rpc/tribrpc"
+	"p2/src/github.com/cmu440/tribbler/rpc/tribrpc"
 )
 
 type tribServer struct {

@@ -15,7 +15,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/cmu440/tribbler/libstore"
+	"p2/src/github.com/cmu440/tribbler/libstore"
 )
 
 var (

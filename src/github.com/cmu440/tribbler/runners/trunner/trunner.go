@@ -8,7 +8,7 @@ import (
 	"net"
 	"strconv"
 
-	"github.com/cmu440/tribbler/tribserver"
+	"p2/src/github.com/cmu440/tribbler/tribserver"
 )
 
 var port = flag.Int("port", 9010, "port number to listen on")

@@ -9,8 +9,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/cmu440/tribbler/rpc/tribrpc"
-	"github.com/cmu440/tribbler/tribclient"
+	"p2/src/github.com/cmu440/tribbler/tribclient"
+	"p2/src/github.com/cmu440/tribbler/rpc/tribrpc"
 )
 
 var port = flag.Int("port", 9010, "TribServer port number")

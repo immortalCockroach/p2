@@ -2,7 +2,7 @@
 
 package tribserver
 
-import "github.com/cmu440/tribbler/rpc/tribrpc"
+import "p2/src/github.com/cmu440/tribbler/rpc/tribrpc"
 
 // TribServer defines the set of methods that a TribClient can invoke remotely via RPCs.
 type TribServer interface {

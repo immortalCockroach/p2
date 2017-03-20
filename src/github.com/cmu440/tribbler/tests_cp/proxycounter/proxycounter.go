@@ -8,8 +8,8 @@ import (
 	"net/rpc"
 	"sync/atomic"
 
-	"github.com/cmu440/tribbler/rpc/storagerpc"
-	"github.com/cmu440/tribbler/storageserver"
+	"p2/src/github.com/cmu440/tribbler/storageserver"
+	"p2/src/github.com/cmu440/tribbler/rpc/storagerpc"
 )
 
 type ProxyCounter interface {

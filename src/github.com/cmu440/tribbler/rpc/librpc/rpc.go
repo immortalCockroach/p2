@@ -3,7 +3,7 @@
 
 package librpc
 
-import "github.com/cmu440/tribbler/rpc/storagerpc"
+import "p2/src/github.com/cmu440/tribbler/rpc/storagerpc"
 
 type RemoteLeaseCallbacks interface {
 	RevokeLease(*storagerpc.RevokeLeaseArgs, *storagerpc.RevokeLeaseReply) error

@@ -10,8 +10,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/cmu440/tribbler/rpc/tribrpc"
-	"github.com/cmu440/tribbler/tribclient"
+	"p2/src/github.com/cmu440/tribbler/rpc/tribrpc"
+	"p2/src/github.com/cmu440/tribbler/tribclient"
 )
 
 const (
